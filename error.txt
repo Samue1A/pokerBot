@@ -1,0 +1,6 @@
+- when you get raised say you bet 10 then raised 20, you need to bet the full 20 instead of putting in 10
+- there is no min raise size
+- code is slow
+- no blinds
+- no UI
+- no multilayer server
